@@ -4,7 +4,7 @@ import './Center.css';
 function Center (props) {
 
     return (
-        <div className= 'Center'>
+        <div className= 'center'>
             {props.children}
         </div>
     )
